@@ -1,0 +1,13 @@
+#invisible-text {
+  display: none;
+}
+
+.click-text {
+  color: #0088cc;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.fade-in-text {
+  display: none;
+}
